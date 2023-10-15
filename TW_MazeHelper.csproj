@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Copyright>ProjectEli 2023, All rights reserved</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Resource Include="TW_ClubMaze.png">
+    </Resource>
+  </ItemGroup>
+
+</Project>
